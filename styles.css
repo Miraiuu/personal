@@ -38,6 +38,7 @@ hr {
 
 p {
     line-height: 2;
+    font-size: 18px;
 }
 
 a {
@@ -90,14 +91,18 @@ a:hover {
 
 .top-cloud {
   position: absolute;
-  right: 30%;
+  right: 15%;
   top: 30%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 30%;
+  left: 25%;
   bottom: 60%;
+}
+
+.dec {
+  text-align: left;
 }
 
 .code-img {
