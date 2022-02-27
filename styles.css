@@ -86,33 +86,19 @@ a:hover {
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
-  text-align: left;
+  text-align: center;
 }
 
-.top-cloud {
-  position: absolute;
-  right: 15%;
-  top: 30%;
-}
 
-.bottom-cloud {
-  position: absolute;
-  left: 25%;
-  bottom: 60%;
-}
-
-.dec {
-  text-align: left;
-}
 
 .code-img {
-  width: 15%;
+  width: 150px;
+  height: 150px;
   float: left;
   margin-right: 40px;
 }
 
 .check-img {
-  width: 15%;
   float: right;
   margin-left: 30px;
 }
